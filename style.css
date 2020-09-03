@@ -1,0 +1,77 @@
+.encabezado {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Tw Cen MT';
+  }
+  #titulo {
+    font-size: 2.5em;
+  }
+  #subtitulo {
+    font-size: 1.4em;
+  }
+  #intro {
+    font-size: 1.2em;
+  }
+  .images {
+    background-color: #FFF0F5;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    font-family: 'Tw Cen MT';
+    font-size: 1.65em;
+  }
+  .productos {
+    font-family: 'Tw Cen MT';
+    font-size: 1.5em;
+  }
+  .tabla {
+    border-collapse: collapse;
+    border-spacing: 50px 15px;
+    margin: auto;
+    border: #FF69B4 4px solid;
+  }
+  .tablaCabecera {
+    background-color: #FFF0F5;
+    border: #FF69B4 1px solid;
+    font-size: 1.2em;
+    padding: 15px;
+  }
+  .cuadrito {
+    border: #FF69B4 1px solid;
+    font-size: 1.1em;
+    padding: 6px;
+  }
+  #titular {
+    text-align: center;
+    font-size: 1.3em;
+  }
+  .tortas {
+    color: black;
+  }
+  .galletas {
+    color: black;
+  }
+  .postres {
+    color: black;
+  }
+  .pies {
+    color: #FF1493;
+  }
+  #mommasLogo {
+    float:center
+  }
+  #halloween {
+    float:center
+  }
+  #colombian {
+    float:center
+  }
+  .nuevos {
+    font-family: 'Tw Cen MT';
+    font-size: 1.5em;
+  }
+  #yummi {
+    float:center
+  }
+  #lema {
+    font-size: 1.0em;
+  }
